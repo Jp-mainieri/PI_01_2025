@@ -2,7 +2,7 @@
 
 --Projeto Integrador do primeiro semestre do curso de Engenharia de Software na PUC Campinas 2025--
 
-*Integrantes do grupo:* Daniel Neves Papa, Gabriel Diniz Foresti Mian de Almeida, Henrique Biazon Ferreira, João Pedro Panza Mainieri, Lucas do Prado Bezerra e Thiago Gutieri Conte 
+*Integrantes do grupo:* João Pedro Panza Mainieri
 
 *O Projeto:* Consiste em um sistema feito em Python para classificar e monitorar a sustentabilidade diária de uma pessoa, de acordo com os dados inseridos pelo usuário. O sistema tem como intuito facilitar o início da implementação da sustentabilidade na vida das pessoas, fazendo com que seja mais intuitivo para a população.
 
